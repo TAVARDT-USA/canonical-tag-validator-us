@@ -1,14 +1,13 @@
 # Canonical Tag and URL Consolidation Validator
 
 [![Canonical Tag Validator](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/canonical-tag-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20States-00C853.svg)](https://ag.tavardt.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits canonical links, duplicate tag detection, absolute URL verification, and crawl budget protection.
 
-Developed and maintained by the search systems engineering and crawl efficiency division of **[TAVARDT USA](https://ag.tavardt.com/)**.
+Developed and maintained by the search systems engineering and crawl efficiency division of **TAVARDT USA**.
 
----
+***
 
 ## Canonical Tag Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the search systems engineering and crawl efficiency 
 * **Destination Response Verification**: Verifies that the canonical target URL returns an HTTP 200 OK status code.
 * **Consolidation Health Score**: Quantitative 0 to 100 health score with prioritized technical remediation steps.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python canonical_validator.py https://company.com
 To output results in structured JSON format:
 
 ```bash
-python canonical_validator.py https://company.com --json
+python canonical_validator.py https://company.com -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep URL consolidation audits:
 
-* **[Official Canonical Tag Checker Tool](https://tools.tavardt.com/canonical-tag-checker/)**
-* **[TAVARDT USA Enterprise Portal](https://ag.tavardt.com/)**
+* **Official Canonical Tag Checker Tool**
+* **TAVARDT USA Enterprise Portal**
 
----
+***
 
 ## Technical SEO and Indexation Advisory
 
-For enterprise catalog architectures aligning with W3C Recommendations and US Digital Standards, contact the specialists at **[TAVARDT USA](https://ag.tavardt.com/contact/)**.
+For enterprise catalog architectures aligning with W3C Recommendations and US Digital Standards, contact the specialists at **TAVARDT USA**.
