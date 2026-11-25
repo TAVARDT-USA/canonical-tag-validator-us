@@ -6,8 +6,6 @@
 
 Audits canonical links, duplicate tag detection, absolute URL verification, and crawl budget protection.
 
-Developed and maintained by the search systems engineering and crawl efficiency division of **TAVARDT**.
-
 ***
 
 ## Canonical Tag Audit Capabilities
@@ -38,15 +36,6 @@ python canonical_validator.py https://company.com -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep URL consolidation audits:
-
-* **Official Canonical Tag Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Technical SEO and Indexation Advisory
 
 For enterprise catalog architectures aligning with W3C Recommendations and US Digital Standards, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise catalog architectures aligning with W3C Recommendations and US Di
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
